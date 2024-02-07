@@ -1,5 +1,5 @@
 
-央视
+央视,#genre#
 CCTV-1,http://211.137.115.110:8080/gitv_live/G_CCTV-1-MD/G_CCTV-1-MD.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8#http://223.110.243.138/PLTV/1/224/3221227467/index.m3u8#http://223.110.245.138/PLTV/1/224/3221227467/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8,cntv-cctv1
 CCTV-2,http://211.137.115.110:8080/gitv_live/G_CCTV-2-MD/G_CCTV-2-MD.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225820/index.m3u8#http://183.207.248.71/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2,cntv-cctv2
 CCTV-3,http://223.110.245.136/PLTV/1/224/3221227546/index.m3u8#http://183.207.248.71/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3#http://39.135.138.59:18890/PLTV/88888910/224/3221225634/index.m3u8,cntv-cctv3
